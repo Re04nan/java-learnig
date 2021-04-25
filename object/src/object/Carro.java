@@ -1,9 +1,9 @@
 package object;
 
 public class Carro {
-	public String marca;
-	public String cor;
-	public String rodas;
+	private String marca;
+	private String cor;
+	private String rodas;
 	private boolean emMovimento;
 	private boolean parado;
 	
