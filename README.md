@@ -6,18 +6,17 @@
    <div>
    <img src="./logo-java.png" width="200" align="right"/>
    </div>
-   
    <div>
-     <h4>👨🏽‍💻 Tópico em andamento:</h4>
+     <h4 font Color="blue">👨🏽‍💻 Tópico em andamento:</h4>
             <p>🔲 OOP - Programação orientada a objeto.</p>
    </div>
    <div>
      <h4>📋 Tópicos a serem abordados:</h4>
-            <p>🔲 Resumo da história do java.</p>
-            <p>🔲 Entendendo suas siglas e versões.</p>
-            <p>🔲 IDE ou Ambiente integrado de desenvolvimento.</p>
-            <p>🔲 Estrutura de código java.</p>
-            <p>⏳...</p>
+            - [ ] Resumo da história do java.
+            - [ ] Entendendo suas siglas e versões.
+            - [ ] IDE ou Ambiente integrado de desenvolvimento.
+            - [ ] Estrutura de código java.
+            - [ ] ⏳...
    </div>
    <div>
      <h4>🗃 Tópicos finalizados:</h4>
