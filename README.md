@@ -10,13 +10,10 @@
 <br/>
 <br/>
 
-<style>p{color:red;}</style>
-<p><em>foo</em></p>
-
 <div>
 
 ### Tópico em andamento: 👨🏽‍💻
-- [x] OOP - Programação orientada a objeto.
+- [x] [OOP - Programação orientada a objeto.]("./object")
 - [x] Resumo da história do java.
 - [x] Entendendo suas siglas e versões.
 
