@@ -3,10 +3,11 @@
 # Java learnig
 ### Repositório de estudo em Java.
 </div> 
- 
-<div>
+
 <img src="./logo-java.png" width="200" align="right"/>
- 
+
+<div>
+
 ## Tópico em andamento: 👨🏽‍💻
 - [x] OOP - Programação orientada a objeto.
 - [x] Resumo da história do java.
