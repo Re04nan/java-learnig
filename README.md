@@ -13,11 +13,11 @@
    </div>
    <div>
      <h4>📋 Tópicos a serem abordados:</h4>
-      🔲 Resumo da história do java.
-      🔲 Entendendo suas siglas e versões.
-      🔲 IDE ou Ambiente integrado de desenvolvimento.
-      🔲 Estrutura de código java.
-         ⏳...
+      <p>🔲 Resumo da história do java.</p>
+      <p>🔲 Entendendo suas siglas e versões.</p>
+      <p>🔲 IDE ou Ambiente integrado de desenvolvimento.</p>
+      <p>🔲 Estrutura de código java.</p>
+      <p>⏳...</p>
    </div>
    <div>
      <h4>🗃 Tópicos finalizados:</h4>
