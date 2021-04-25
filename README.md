@@ -13,7 +13,7 @@
 <div>
 
 ### Tópico em andamento: 👨🏽‍💻
-- [x] [OOP - Programação orientada a objeto.]("./Re04nan/java-learnig/tree/master/object")
+- [x] [OOP - Programação orientada a objeto.]("object")
 - [x] Resumo da história do java.
 - [x] Entendendo suas siglas e versões.
 
