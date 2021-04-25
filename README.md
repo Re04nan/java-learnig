@@ -6,12 +6,12 @@
 </div> 
  
 <img src="./logo-java.png" width="200" align="right"/>
-
-👨🏽‍💻 **Tópico em andamento:**
+ 
+## Tópico em andamento: 👨🏽‍💻
 
 - [x] OOP - Programação orientada a objeto.
  
-📋 **Tópicos a serem abordados:**
+## Tópicos a serem abordados: 📋
 
 - [ ] Resumo da história do java.
 - [ ] Entendendo suas siglas e versões.
@@ -19,4 +19,4 @@
 - [ ] Estrutura de código java.
 - [ ] ⏳...
 
-🗃 **Tópicos finalizados:**
+## Tópicos finalizados: 🗃 
