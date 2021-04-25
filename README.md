@@ -1,8 +1,7 @@
 <div align="center">
 
-#Java learnig#
-  
-###Repositório de estudo em Java.###
+# Java learnig
+### Repositório de estudo em Java.
 
 </div> 
  
