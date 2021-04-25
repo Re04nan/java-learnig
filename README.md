@@ -6,10 +6,12 @@
 <img src="./logo-java.png" width="200" align="right"/>
 
 👨🏽‍💻 **Tópico em andamento:**
+<hr/>
 
-- [ ] OOP - Programação orientada a objeto.
+- [x] OOP - Programação orientada a objeto.
  
 📋 **Tópicos a serem abordados:**
+<hr/>
 
 - [ ] Resumo da história do java.
 - [ ] Entendendo suas siglas e versões.
@@ -18,4 +20,4 @@
 - [ ] ⏳...
 
 🗃 **Tópicos finalizados:**
-     
+<hr/>
