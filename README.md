@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Java learnig</h1>
- <h3>Repositório sobre estudo em Java.</h3>
+ <h3>Repositório de estudo em Java.</h3>
 </div>
 <div>
    <div>
