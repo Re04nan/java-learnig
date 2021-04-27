@@ -8,6 +8,7 @@ JAVA SE | <p align="justify">Java Standard Edition. É a base do Java (❤).</p>
 JAVA EE | <p align="justify">Java Enterprise Edition.</p><p align="justify">Conjunto de especificações para desenvolvimento Java corporativo Web.</p> |
 JVM | <p align="justify">Java Virtual Machine.</p><p align="justify">Responsável por executar os programas no formato bytecode tornando </br> possível a capacidade de ser multiplataforma.<p> |
 JRE | <p align="justify">Java Runtime Environment.</p><p align="justify">Provê os requisitos mínimos para executar um programa java, ou seja, </br> contém uma JVM e os pacotes básicos do Java como o pacote lang que possui a classe String.</p> |
-JDK | <p align="justify">Java Development Kit.</p><p>Provê ferramentas para o desenvolvimento de programas Java. Contém um compilador,</br>um depurador e o próprio JRE.</p> 
+JDK | <p align="justify">Java Development Kit.</p><p align="justify">Provê ferramentas para o desenvolvimento de programas Java. Contém um compilador,</br>um depurador e o próprio JRE.</p> |
+OracleJDK | <p align="justify">Licença paga para utilização comercial exceto em testes,</br>desenvolvimento e demonstração. Possui suporte direto da Oracle.</p>
 
 </div>
