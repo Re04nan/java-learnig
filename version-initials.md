@@ -2,7 +2,7 @@
 
 #  Siglas e versões do Java
 
-| JAVA ME   | Java Micro Edition – Para dispositivos embarcados e móveis – IoT |
+| JAVA ME   | <p align="justify">Java Micro Edition</p> </br> <p align="justify">Para dispositivos embarcados e móveis – IoT</p> |
 :-: | -----------:
 JAVA SE | <p align="justify">Java Standard Edition. É a base do Java (❤).</p> </br><p align="justify"> Para desktop e servidores. Ele engloba todos os fundamentos do Java </br> e a API de desenvolvimento desktop. Nela já contém o JDK e JRE.</p> |
 JAVA EE | <p align="justify">Java Enterprise Edition.</p> </br> <p align="justify">Conjunto de especificações para desenvolvimento Java corporativo Web.</p> |
