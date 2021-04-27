@@ -13,4 +13,14 @@ OracleJDK | <p align="justify">Licença paga para utilização comercial exceto 
 OpenJDK | <p align="justify">Implementação gratuita e de código aberto do Java SE Platform Edition.</br>É desenvolvido pela Java Community. Empresas como Red Hat, Azul Systems,</br> IBM, Apple Inc participam ativamente no desenvolvimento do OpenJDK. Principais </br>distribuição Linux utilizam como implementação padrão do Java SE.</p> |
 LTS | <p align="justify">Long Term Support (Suporte de longo período).</p><p align="justify">Indicado para empresas que buscam estabilidade. Atualmente as versões</br> são lançadas a cada 6 meses e as versões LTS a cada 3 anos.</p>
 
+## Versão do Java?
+
+Nos primeiros anos do Java, a numeração de suas versões tinham o padrão 1.x, mas a partir do Java</br>
+1.5 passou a se chamar apenas Java 5 para refletir o nível de maturidade e estabilidade que a linguagem</br>
+e o seu conjunto de tecnologias havia alcançado.</br>
+Contudo, o Java 1.8 e Java 8 tratam-se da mesma versão. A versão mais atual LTS do momento é a 11. 
+
+
+**Referência:** https://www.oracle.com/index.html
+
 </div>
