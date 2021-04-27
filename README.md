@@ -15,7 +15,7 @@
 ### Tópico em andamento: 👨🏽‍💻
 - [x] [OOP - Programação orientada a objeto.](object)
 - [x] Resumo da história do java.
-- [x] Entendendo suas siglas e versões.
+- [x] [Entendendo suas siglas e versões.](version-initials.md)
 
 ### Tópicos a serem abordados: 📋
 - [ ] IDE ou Ambiente integrado de desenvolvimento.
