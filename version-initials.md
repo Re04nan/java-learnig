@@ -11,6 +11,7 @@ JRE | <p align="justify">Java Runtime Environment.</p><p align="justify">Provê 
 JDK | <p align="justify">Java Development Kit.</p><p align="justify">Provê ferramentas para o desenvolvimento de programas Java. Contém um compilador,</br>um depurador e o próprio JRE.</p> |
 OracleJDK | <p align="justify">Licença paga para utilização comercial exceto em testes,</br>desenvolvimento e demonstração. Possui suporte direto da Oracle.</p> |
 OpenJDK | <p align="justify">Implementação gratuita e de código aberto do Java SE Platform Edition.</br>É desenvolvido pela Java Community. Empresas como Red Hat, Azul Systems,</br> IBM, Apple Inc participam ativamente no desenvolvimento do OpenJDK. Principais </br>distribuição Linux utilizam como implementação padrão do Java SE.
-</p>
+</p> |
+LTS | <p align="justify">Long Term Support (Suporte de longo período).</p><p align="justify">Indicado para empresas que buscam estabilidade. Atualmente as versões</br> são lançadas a cada 6 meses e as versões LTS a cada 3 anos.</p>
 
 </div>
