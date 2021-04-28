@@ -4,9 +4,9 @@
 
 </div>
 
-<div align="justify">
+<div align="center">
  
-<p>Em 1991, na Sun Microsystems, foi iniciado o Green Project, o berço do Java, uma</br> 
+<p align="justify">Em 1991, na Sun Microsystems, foi iniciado o Green Project, o berço do Java, uma</br> 
 linguagem de programação orientada a objetos. Um projeto inovador com a objetivo de</br>
 criar algoritmos para equipamentos e eletrodomésticos frequentemente usados pelas</br> 
 pessoas no seu dia-a-dia.</p>
