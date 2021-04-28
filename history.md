@@ -2,6 +2,9 @@
 
 # Surgimento do Java ☕
 
+</div>
+
+<div align="center" display="justify">
 <p>Em 1991, na Sun Microsystems, foi iniciado o Green Project, o berço do **Java**, uma 
 linguagem de programação orientada a objetos. Um projeto inovador com a objetivo de 
 criar algoritmos para equipamentos e eletrodomésticos frequentemente usados pelas 
