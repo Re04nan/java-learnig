@@ -4,16 +4,16 @@
 
 </div>
 
-<div align="center">
+<div align="justify">
  
-<p align="justify">Em 1991, na Sun Microsystems, foi iniciado o Green Project, o berço do Java, uma</br> 
+<p>Em 1991, na Sun Microsystems, foi iniciado o Green Project, o berço do Java, uma</br> 
 linguagem de programação orientada a objetos. Um projeto inovador com a objetivo de</br>
 criar algoritmos para equipamentos e eletrodomésticos frequentemente usados pelas</br> 
 pessoas no seu dia-a-dia.</p>
 
-<p>Java era conhecido anteriormente como “OAK”, que quer dizer carvalho. Uma árvore 🌳</br> 
-que é considerada um símbolo de força em muitos países como EUA, Alemanha, França e</br>
-Romênia.</p> 
+<p>Java era conhecido anteriormente como “OAK”, que quer dizer carvalho. Uma árvore</br> 
+🌳 que é considerada um símbolo de força em muitos países como EUA, Alemanha, França</br> 
+e Romênia.</p> 
 
 <p>No ano de 1995 os mentores do projeto (James Gosling, Patrick Naughton e Mike Sheridan)</br> 
 renomearam para **Java**, que se teve como inspiração um gosto peculiar entre eles e de </br>
