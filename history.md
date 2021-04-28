@@ -28,10 +28,10 @@ eletrônicos.</p>
 
 <p>Em 2008 a Sun Microsystems e todos seus produtos, incluindo o JAVA, foi adquirido pela empresa</br>
 Oracle Corporation, por US$ 7,4 bilhões.</p>
-
+<div align="justify">
 ## Esse é o Duke - Mascote do Javinha.
-<img src="../duke.png"/>
-
+<img src="https://github.com/Re04nan/java-learnig/blob/master/duke.png" whidth="100" height="100"/>
+</div>
 <p>Referência:</p>
 <p>https://pt.wikipedia.org/wiki/Java_%28linguagem_de_programa%C3%A7%C3%A3o%29</p>
 
