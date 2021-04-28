@@ -16,7 +16,7 @@ pessoas no seu dia-a-dia.</p>
 e Romênia.</p> 
 
 <p>No ano de 1995 os mentores do projeto (James Gosling, Patrick Naughton e Mike Sheridan)</br> 
-renomearam para Java, a inspiração do nome se deu por um gosto peculiar entre eles e de</br>
+renomearam para Java. A inspiração do nome se deu por um gosto peculiar entre eles e de</br>
 muitos devs do momento que é a paixão por café. Resumindo JAVA é o nome de uma ilha onde</br>
 se podia encontrar os grãos mais fortes dessa bebida bastante consumida mundialmente.</p>
 
