@@ -14,10 +14,10 @@
 
 ### Tópico em andamento: 👨🏽‍💻
 - [x] [OOP - Programação orientada a objeto.](object)
+- [x] Estrutura de código java.
 
 ### Tópicos a serem abordados: 📋
 - [ ] IDE ou Ambiente integrado de desenvolvimento.
-- [ ] Estrutura de código java.
 - [ ] ⏳...
 
 ### Tópicos finalizados: 🗃 
