@@ -17,7 +17,13 @@
 - [x] Estrutura de código java.
 
 ### Tópicos a serem abordados: 📋
+- [ ] Operadores Aritméticos.
 - [ ] IDE ou Ambiente integrado de desenvolvimento.
+- [ ] Frameworks mais utilizados com Java.
+- [ ] Tipos primitivos e variáveis.
+- [ ] Formatação de prints.
+- [ ] Nomes de variáveis e constantes.
+- [ ] Strings e vetores.
 - [ ] ⏳...
 
 ### Tópicos finalizados: 🗃 
