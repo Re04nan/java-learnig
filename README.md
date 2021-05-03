@@ -20,7 +20,9 @@
 - [ ] IDE ou Ambiente integrado de desenvolvimento.
 - [ ] Frameworks mais utilizados com Java.
 - [ ] Tipos primitivos e variáveis.
-- [ ] Entrada de dados e saídas com print, println e printf.
+- [ ] Formatação de prints.
+- [ ] Nomes de variáveis e constantes.
+- [ ] Strings e vetores.
 - [ ] ⏳...
 
 ### Tópicos finalizados: 🗃 
