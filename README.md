@@ -18,6 +18,8 @@
 
 ### Tópicos a serem abordados: 📋
 - [ ] IDE ou Ambiente integrado de desenvolvimento.
+- [ ] Tipos primitivos e variáveis.
+- [ ] Entrada de dados e saídas com print, println e printf.
 - [ ] ⏳...
 
 ### Tópicos finalizados: 🗃 
