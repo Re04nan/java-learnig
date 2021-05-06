@@ -9,27 +9,17 @@ public class EncontrarMenorNumero {
 		};
 		
 		Integer counter = 0;
-		Integer biggerNumber = null;
-		Integer smallerNumber = null;
-		Integer assistantNumber = null;
+		Integer smallerNumber = Integer.MAX_VALUE;
 		
 		while(counter < numbersList.length) {
-			if (numbersList[0] < numbersList[counter]) {
-				smallerNumber = numbersList[0];
-				biggerNumber = numbersList[counter];
-				assistantNumber = smallerNumber;
-			} else {
+			if (smallerNumber > numbersList[counter]) {
 				smallerNumber = numbersList[counter];
-				biggerNumber = numbersList[0];
-				assistantNumber = smallerNumber;
 			}
 			counter++;
 		}
-			if(smallerNumber < biggerNumber) {
-				System.out.println("O menor número é " + smallerNumber);
-			} else {
-				System.out.println("O menor número é " + biggerNumber);
-			}
+		
+		System.out.println("O menor número é " + smallerNumber);
+		
 	}
 
 }
