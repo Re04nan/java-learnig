@@ -1,6 +1,8 @@
+package exercise;
+
 import criandoumabiblioteca.BibliotecaImpressaoValores;
 
-public class UtilizandoBibliotecaImpressaoCriada {
+public class UtilizandoBibliotecaImpressao {
 
 	public static void main(String[] args) {
 		
